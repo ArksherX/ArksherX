@@ -43,19 +43,6 @@ I specialize in identifying systemic, logic-based vulnerabilities in autonomous 
 
 ---
 
-### 📈 Metrics & Verification Logs
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArksherX&theme=github-dark-vibrant&area=true&category=commits" height="160" alt="Contribution Graph" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArksherX&theme=zenburn" height="150" alt="GitHub Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArksherX&theme=zenburn" height="150" alt="Top Languages" />
-</p>
-
----
-
 ### 🤝 Secure Inbound Channels
 
 * **Enterprise Integration Routing:** [info@artonexa.com](mailto:info@artonexa.com)
