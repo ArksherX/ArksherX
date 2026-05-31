@@ -42,11 +42,12 @@ adversarial-agent-sim A diagnostic framework built to evaluate boundary controls
 
 📈 Metrics & Verification Logs
 🤝 Secure Inbound Channels
-Enterprise Integration Routing: info@artonexa.com
+
+Enterprise Integration Routing: miracle@artonexa.com
 
 Technical Deep-Dives: arksher.substack.com
 
-Professional Ledger: LinkedIn Profile
+Professional Ledger: LinkedIn Profile: https://linkedin.com/in/miracleowolabi-security
 
 Research Workspace: Research Discord
 
