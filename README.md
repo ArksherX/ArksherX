@@ -34,13 +34,16 @@ I specialize in identifying systemic, logic-based vulnerabilities in autonomous 
 ```
 
 📂 Active Infrastructure Engineering & Research
+
 ARTONexa Suite An interconnected behavioral enforcement stack featuring zero-trust IAM with depth-5 delegation logic, real-time multi-turn adversarial trajectory monitoring, and hash-chained database audit layers.
 
 ot-threat-intelligence-agent An autonomous reasoning engine optimized for structural triage parsing, deep session trace diagnostics, and systemic threat evaluations.
 
 adversarial-agent-sim A diagnostic framework built to evaluate boundary controls, privilege escalation risks, and data logic persistence errors within multi-agent cloud loops.
 
+
 📈 Metrics & Verification Logs
+
 🤝 Secure Inbound Channels
 
 Enterprise Integration Routing: miracle@artonexa.com
