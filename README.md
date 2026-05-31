@@ -45,7 +45,7 @@ I specialize in identifying systemic, logic-based vulnerabilities in autonomous 
 
 ### 🤝 Secure Inbound Channels
 
-* **Enterprise Integration Routing:** [info@artonexa.com](mailto:info@artonexa.com)
+* **Enterprise Integration Routing:** [miracle@artonexa.com](mailto:miracle@artonexa.com)
 * **Technical Deep-Dives:** [arksher.substack.com](https://arksher.substack.com)
 * **Professional Ledger:** [LinkedIn Profile](https://linkedin.com/in/miracleowolabi-security)
 * **Research Workspace:** [Research Discord](https://discord.gg/artonexa)
