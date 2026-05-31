@@ -1,7 +1,8 @@
 # 🛡️ Miracle Owolabi
 ### **AI Red Teaming & Non-Human Identity Architect**
 
-> **Researcher · Speaker · Core Framework Author** > Architecting defensive telemetry, behavioral enforcement, and forensic audit infrastructure for autonomous agentic systems.
+> **Researcher · Speaker · Core Framework Author**
+> Architecting defensive telemetry, behavioral enforcement, and forensic audit infrastructure for autonomous agentic systems.
 
 ---
 
@@ -26,32 +27,37 @@ I specialize in identifying systemic, logic-based vulnerabilities in autonomous 
 
 ### 🛠️ Technical Fabric & Infrastructure Stack
 
-```text
-├── Execution Ecosystem  : Python (Expert), Rust (Systems Architecture), SQL, Go
-├── Autonomous AI Core   : LangChain, LlamaIndex, PyTorch, HuggingFace Transformers
-├── Telemetry & SecOps   : OpenTelemetry Native, Redis, PostgreSQL, Docker, FastAPI
-└── Defensive Operations : Trajectory Tracking Engines, DPoP Token Binding, VAPT Scripting
-```
+* 📂 **Execution Ecosystem** &nbsp;&nbsp;: [Python](https://www.python.org/) (Expert), [Rust](https://www.rust-lang.org/) (Systems Architecture), SQL, Go
+* 🧠 **Autonomous AI Core** &nbsp;&nbsp;&nbsp;: [LangChain](https://www.langchain.com/), [LlamaIndex](https://www.llamaindex.ai/), [PyTorch](https://pytorch.org/), HuggingFace Transformers
+* 📡 **Telemetry & SecOps** &nbsp;&nbsp;&nbsp;&nbsp;: [OpenTelemetry](https://opentelemetry.io/) Native, [Redis](https://redis.io/), [PostgreSQL](https://www.postgresql.org/), Docker, FastAPI
+* 🛡️ **Defensive Operations** : Trajectory Tracking Engines, DPoP Token Binding, VAPT Scripting
 
-📂 Active Infrastructure Engineering & Research
+---
 
-ARTONexa Suite An interconnected behavioral enforcement stack featuring zero-trust IAM with depth-5 delegation logic, real-time multi-turn adversarial trajectory monitoring, and hash-chained database audit layers.
+### 📂 Active Infrastructure Engineering & Research
 
-ot-threat-intelligence-agent An autonomous reasoning engine optimized for structural triage parsing, deep session trace diagnostics, and systemic threat evaluations.
+* **[ARTONexa Suite](https://github.com/ArksherX/ARTO)** — An interconnected behavioral enforcement stack featuring zero-trust IAM with depth-5 delegation logic, real-time multi-turn adversarial trajectory monitoring, and hash-chained database audit layers.
+* **[ot-threat-intelligence-agent](https://github.com/ArksherX/ot-threat-intelligence-agent)** — An autonomous reasoning engine optimized for structural triage parsing, deep session trace diagnostics, and systemic threat evaluations.
+* **[adversarial-agent-sim](https://github.com/ArksherX/adversarial-agent-sim)** — A diagnostic framework built to evaluate boundary controls, privilege escalation risks, and data logic persistence errors within multi-agent cloud loops.
 
-adversarial-agent-sim A diagnostic framework built to evaluate boundary controls, privilege escalation risks, and data logic persistence errors within multi-agent cloud loops.
+---
 
+### 📈 Metrics & Verification Logs
 
-📈 Metrics & Verification Logs
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArksherX&show_icons=true&theme=transparent&hide_border=true&title_color=0F6E56&text_color=A8C4DC&icon_color=0F6E56" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArksherX&layout=compact&theme=transparent&hide_border=true&title_color=0F6E56&text_color=A8C4DC" height="150" alt="Top Languages" />
+</p>
 
-🤝 Secure Inbound Channels
+---
 
-Enterprise Integration Routing: miracle@artonexa.com
+### 🤝 Secure Inbound Channels
 
-Technical Deep-Dives: arksher.substack.com
+* **Enterprise Integration Routing:** [info@artonexa.com](mailto:info@artonexa.com)
+* **Technical Deep-Dives:** [arksher.substack.com](https://arksher.substack.com)
+* **Professional Ledger:** [LinkedIn Profile](https://linkedin.com/in/miracleowolabi-security)
+* **Research Workspace:** [Research Discord](https://discord.gg/artonexa)
 
-Professional Ledger: LinkedIn Profile: https://linkedin.com/in/miracleowolabi-security
+---
 
-Research Workspace: Research Discord
-
-"Security is not a product, but a process of constant adversarial reasoning."
+> *"Security is not a product, but a process of constant adversarial reasoning."*
