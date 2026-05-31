@@ -2,6 +2,7 @@
 ### **AI Red Teaming & Non-Human Identity Architect**
 
 > **Researcher · Speaker · Core Framework Author**
+> 
 > Architecting defensive telemetry, behavioral enforcement, and forensic audit infrastructure for autonomous agentic systems.
 
 ---
