@@ -46,8 +46,12 @@ I specialize in identifying systemic, logic-based vulnerabilities in autonomous 
 ### 📈 Metrics & Verification Logs
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArksherX&show_icons=true&theme=transparent&hide_border=true&title_color=0F6E56&text_color=A8C4DC&icon_color=0F6E56" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArksherX&layout=compact&theme=transparent&hide_border=true&title_color=0F6E56&text_color=A8C4DC" height="150" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArksherX&theme=github-dark-vibrant&area=true&category=commits" height="160" alt="Contribution Graph" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArksherX&theme=zenburn" height="150" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArksherX&theme=zenburn" height="150" alt="Top Languages" />
 </p>
 
 ---
